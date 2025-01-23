@@ -64,7 +64,7 @@ else:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        "Path CleanUp",
+        "pathcleanup",
         description="Script for cleaning dead folders from PATH environment variable on Windows",
         formatter_class=argparse.RawTextHelpFormatter,
     )
