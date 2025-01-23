@@ -1,7 +1,7 @@
 # Path CleanUp
 ### _Windows only_
 ## Overview
-Tool for deleting unnecessary paths from PATH environment variable. Unnecessary paths include:
+Tool for deleting reduntant paths from PATH environment variable. Redundant paths include:
 + non-existing paths
 + duplicates
 + empty folders
