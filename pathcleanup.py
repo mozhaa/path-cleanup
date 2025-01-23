@@ -71,7 +71,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "-D",
         type=int,
-        choices=[0, 1, 2],
+        choices=[0, 1, 2, 3],
         default=0,
         help="which folders to delete from PATH\n"
         " 0 - don't delete anything (default option)\n"
